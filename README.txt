@@ -1,4 +1,4 @@
-## This repository hosts my portfolio. An HTML template was used as seen below. 
+This repository hosts my portfolio. An HTML template was used as seen below. 
 
 
 Massively by HTML5 UP
